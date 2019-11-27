@@ -15,6 +15,7 @@ legacy_data, games_data, roster_data, and play_by_play_data.
  
  
  Useful datafiles: 
+ 
  https://www.kaggle.com/maxhorowitz/nflplaybyplay2015
  
  https://www.kaggle.com/kendallgillies/nflstatistics
