@@ -13,6 +13,13 @@ legacy_data, games_data, roster_data, and play_by_play_data.
  A) Who will win a game based on last 10 games
  B) Predict record of a team after midway point of season
  
+Grayson Question:
+ Clustering based on the play-style of teams (Offense focused, balanced, etc..)
+ 
+Conor question:
+ Classifier to predict what position a player plays based on their stats
+
+
  
  Useful datafiles: 
  
