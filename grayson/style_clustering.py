@@ -1,3 +1,9 @@
+#CSC466 final project
+#Samuel Erling Sachnoff (ssachnof@calpoly.edu)
+#Ryan Holt (ryholt@calpoly.edu)
+#Conor Whatley (cwhatley@calpoly.edu)
+#Grayson Clendenon (gclenden@calpoly.edu)
+
 import sys
 import pandas as pd
 import numpy as np
@@ -6,13 +12,15 @@ from mpl_toolkits.mplot3d import Axes3D
 
 
 def main():
-    if len(sys.argv) == 4:
-        in_file = sys.argv[1]
-        out_file = sys.argv[2]
-        k = int(sys.argv[3])
+    if len(sys.argv) == 3:
+        #in_file = sys.argv[1]
+        out_file = sys.argv[1]
+        k = int(sys.argv[2])
     else:
-        print("Usage: python3 style_clustering.py in_file out_file k")
+        print("Usage: python3 style_clustering.py out_file k")
         return
+
+    in_file = "data/team_stats_2018.csv"
 
     drop_list = ["RK", "TOTAL_DVOA", "LAST_YEAR", "WEI_DVOA", "RANK", "W-L", "YEAR"]
 
@@ -102,7 +110,7 @@ def plot_clusters(df, test, clustering):
     ax.set_xlabel("ST_DVOA")
     ax.set_ylabel("OFFENSE_DVOA")
     ax.set_zlabel("DEFENSE_DVOA")
-    
+
     for i in range(len(ranks)):
         ax.text(x[i], y[i], z[i], ranks[i])
 
