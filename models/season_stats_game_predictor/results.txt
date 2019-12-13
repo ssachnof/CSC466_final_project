@@ -1,0 +1,5130 @@
+Random Forest Classifications:
+
+-- Row: -- 
+home              NO
+away              TB
+rec                8
+op_rec             2
+home_rec           6
+op_away_rec        2
+off                7
+def                4
+op_off             8
+op_def             7
+hop                7
+aop                5
+hdp                4
+adp                8
+div             True
+result         False
+Name: 3, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             MIN
+away              SF
+rec                5
+op_rec             1
+home_rec           5
+op_away_rec        1
+off                5
+def                2
+op_off             6
+op_def             4
+hop                4
+aop                3
+hdp                3
+adp                7
+div            False
+result          True
+Name: 5, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            CLE
+away            PIT
+rec               4
+op_rec            5
+home_rec          5
+op_away_rec       5
+off               6
+def               7
+op_off            8
+op_def            3
+hop               4
+aop               5
+hdp               5
+adp               4
+div            True
+result         True
+Name: 8, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYJ
+away             MIA
+rec                1
+op_rec             4
+home_rec           2
+op_away_rec        2
+off                3
+def                6
+op_off             3
+op_def             7
+hop                3
+aop                3
+hdp                7
+adp                7
+div             True
+result         False
+Name: 22, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             LA
+away            ARI
+rec               8
+op_rec            1
+home_rec          7
+op_away_rec       3
+off               8
+def               5
+op_off            1
+op_def            5
+hop               8
+aop               1
+hdp               5
+adp               7
+div            True
+result         True
+Name: 27, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CHI
+away             SEA
+rec                8
+op_rec             6
+home_rec           7
+op_away_rec        5
+off                5
+def                1
+op_off             5
+op_def             4
+hop                5
+aop                5
+hdp                1
+adp                3
+div            False
+result          True
+Name: 31, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CLE
+away             NYJ
+rec                4
+op_rec             1
+home_rec           5
+op_away_rec        3
+off                6
+def                7
+op_off             3
+op_def             6
+hop                4
+aop                3
+hdp                5
+adp                7
+div            False
+result          True
+Name: 32, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             MIN
+away             BUF
+rec                5
+op_rec             3
+home_rec           5
+op_away_rec        3
+off                5
+def                2
+op_off             3
+op_def             1
+hop                4
+aop                2
+hdp                3
+adp                4
+div            False
+result         False
+Name: 36, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CAR
+away             CIN
+rec                4
+op_rec             3
+home_rec           5
+op_away_rec        3
+off                6
+def                5
+op_off             3
+op_def             8
+hop                4
+aop                4
+hdp                5
+adp                8
+div            False
+result          True
+Name: 39, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              KC
+away              SF
+rec                8
+op_rec             1
+home_rec           7
+op_away_rec        1
+off                8
+def                8
+op_off             6
+op_def             4
+hop                8
+aop                3
+hdp                7
+adp                7
+div            False
+result          True
+Name: 42, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             IND
+away             HOU
+rec                6
+op_rec             7
+home_rec           6
+op_away_rec        6
+off                7
+def                4
+op_off             6
+op_def             4
+hop                5
+aop                5
+hdp                3
+adp                2
+div             True
+result         False
+Name: 52, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ATL
+away             CIN
+rec                4
+op_rec             3
+home_rec           4
+op_away_rec        3
+off                7
+def                7
+op_off             3
+op_def             8
+hop                5
+aop                4
+hdp                7
+adp                8
+div            False
+result         False
+Name: 56, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ARI
+away             SEA
+rec                1
+op_rec             6
+home_rec           1
+op_away_rec        5
+off                1
+def                5
+op_off             5
+op_def             4
+hop                1
+aop                5
+hdp                7
+adp                3
+div             True
+result         False
+Name: 57, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             LAC
+away              SF
+rec                8
+op_rec             1
+home_rec           5
+op_away_rec        1
+off                6
+def                3
+op_off             6
+op_def             4
+hop                5
+aop                3
+hdp                3
+adp                7
+div            False
+result          True
+Name: 60, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             PIT
+away             ATL
+rec                5
+op_rec             4
+home_rec           5
+op_away_rec        4
+off                8
+def                3
+op_off             7
+op_def             7
+hop                5
+aop                5
+hdp                4
+adp                7
+div            False
+result          True
+Name: 65, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CIN
+away             MIA
+rec                3
+op_rec             4
+home_rec           4
+op_away_rec        2
+off                3
+def                8
+op_off             3
+op_def             7
+hop                4
+aop                3
+hdp                8
+adp                7
+div            False
+result          True
+Name: 71, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              SF
+away             ARI
+rec                1
+op_rec             1
+home_rec           4
+op_away_rec        3
+off                6
+def                4
+op_off             1
+op_def             5
+hop                3
+aop                1
+hdp                7
+adp                7
+div             True
+result         False
+Name: 73, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             SEA
+away              LA
+rec                6
+op_rec             8
+home_rec           6
+op_away_rec        7
+off                5
+def                4
+op_off             8
+op_def             5
+hop                5
+aop                8
+hdp                3
+adp                5
+div             True
+result         False
+Name: 75, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             CLE
+away             LAC
+rec                4
+op_rec             8
+home_rec           5
+op_away_rec        8
+off                6
+def                7
+op_off             6
+op_def             3
+hop                4
+aop                5
+hdp                5
+adp                3
+div            False
+result         False
+Name: 85, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             HOU
+away             BUF
+rec                7
+op_rec             3
+home_rec           6
+op_away_rec        3
+off                6
+def                4
+op_off             3
+op_def             1
+hop                5
+aop                2
+hdp                2
+adp                4
+div            False
+result          True
+Name: 86, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DAL
+away             JAX
+rec                6
+op_rec             2
+home_rec           7
+op_away_rec        3
+off                5
+def                3
+op_off             3
+op_def             2
+hop                3
+aop                1
+hdp                2
+adp                2
+div            False
+result          True
+Name: 90, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              NE
+away              KC
+rec                7
+op_rec             8
+home_rec           8
+op_away_rec        6
+off                7
+def                5
+op_off             8
+op_def             8
+hop                5
+aop                8
+hdp                2
+adp                7
+div            False
+result          True
+Name: 91, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYJ
+away             MIN
+rec                1
+op_rec             5
+home_rec           2
+op_away_rec        4
+off                3
+def                6
+op_off             5
+op_def             2
+hop                3
+aop                4
+hdp                7
+adp                3
+div            False
+result         False
+Name: 97, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BAL
+away              NO
+rec                6
+op_rec             8
+home_rec           6
+op_away_rec        8
+off                6
+def                1
+op_off             7
+op_def             4
+hop                4
+aop                7
+hdp                1
+adp                4
+div            False
+result         False
+Name: 102, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            WAS
+away            DAL
+rec               4
+op_rec            6
+home_rec          3
+op_away_rec       4
+off               3
+def               5
+op_off            5
+op_def            3
+hop               2
+aop               3
+hdp               4
+adp               2
+div            True
+result         True
+Name: 103, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CAR
+away             BAL
+rec                4
+op_rec             6
+home_rec           5
+op_away_rec        5
+off                6
+def                5
+op_off             6
+op_def             1
+hop                4
+aop                4
+hdp                5
+adp                1
+div            False
+result          True
+Name: 115, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BUF
+away              NE
+rec                3
+op_rec             7
+home_rec           4
+op_away_rec        4
+off                3
+def                1
+op_off             7
+op_def             5
+hop                2
+aop                5
+hdp                4
+adp                2
+div             True
+result         False
+Name: 120, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              NO
+away              LA
+rec                8
+op_rec             8
+home_rec           6
+op_away_rec        7
+off                7
+def                4
+op_off             8
+op_def             5
+hop                7
+aop                8
+hdp                4
+adp                5
+div            False
+result          True
+Name: 131, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CLE
+away             ATL
+rec                4
+op_rec             4
+home_rec           5
+op_away_rec        4
+off                6
+def                7
+op_off             7
+op_def             7
+hop                4
+aop                5
+hdp                5
+adp                7
+div            False
+result          True
+Name: 136, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DET
+away             CAR
+rec                3
+op_rec             4
+home_rec           3
+op_away_rec        3
+off                4
+def                3
+op_off             6
+op_def             5
+hop                3
+aop                4
+hdp                4
+adp                5
+div            False
+result          True
+Name: 155, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             LAC
+away             DEN
+rec                8
+op_rec             3
+home_rec           5
+op_away_rec        4
+off                6
+def                3
+op_off             5
+op_def             5
+hop                5
+aop                3
+hdp                3
+adp                3
+div             True
+result         False
+Name: 156, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              LA
+away              KC
+rec                8
+op_rec             8
+home_rec           7
+op_away_rec        6
+off                8
+def                5
+op_off             8
+op_def             8
+hop                8
+aop                8
+hdp                5
+adp                7
+div            False
+result          True
+Name: 160, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              TB
+away              SF
+rec                2
+op_rec             1
+home_rec           4
+op_away_rec        1
+off                8
+def                7
+op_off             6
+op_def             4
+hop                5
+aop                3
+hdp                8
+adp                7
+div            False
+result          True
+Name: 165, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BAL
+away             OAK
+rec                6
+op_rec             1
+home_rec           6
+op_away_rec        2
+off                6
+def                1
+op_off             5
+op_def             6
+hop                4
+aop                2
+hdp                1
+adp                8
+div            False
+result          True
+Name: 167, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             IND
+away             MIA
+rec                6
+op_rec             4
+home_rec           6
+op_away_rec        2
+off                7
+def                4
+op_off             3
+op_def             7
+hop                5
+aop                3
+hdp                3
+adp                7
+div            False
+result          True
+Name: 172, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             TB
+away            CAR
+rec               2
+op_rec            4
+home_rec          4
+op_away_rec       3
+off               8
+def               7
+op_off            6
+op_def            5
+hop               5
+aop               4
+hdp               8
+adp               5
+div            True
+result         True
+Name: 178, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CIN
+away             DEN
+rec                3
+op_rec             3
+home_rec           4
+op_away_rec        4
+off                3
+def                8
+op_off             5
+op_def             5
+hop                4
+aop                3
+hdp                8
+adp                3
+div            False
+result         False
+Name: 183, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             OAK
+away              KC
+rec                1
+op_rec             8
+home_rec           3
+op_away_rec        6
+off                5
+def                6
+op_off             8
+op_def             8
+hop                2
+aop                8
+hdp                8
+adp                7
+div             True
+result         False
+Name: 186, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             SEA
+away             MIN
+rec                6
+op_rec             5
+home_rec           6
+op_away_rec        4
+off                5
+def                4
+op_off             5
+op_def             2
+hop                5
+aop                4
+hdp                3
+adp                3
+div            False
+result          True
+Name: 207, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BUF
+away             DET
+rec                3
+op_rec             3
+home_rec           4
+op_away_rec        4
+off                3
+def                1
+op_off             4
+op_def             3
+hop                2
+aop                3
+hdp                4
+adp                4
+div            False
+result          True
+Name: 212, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BAL
+away              TB
+rec                6
+op_rec             2
+home_rec           6
+op_away_rec        2
+off                6
+def                1
+op_off             8
+op_def             7
+hop                4
+aop                5
+hdp                1
+adp                8
+div            False
+result          True
+Name: 213, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ATL
+away             ARI
+rec                4
+op_rec             1
+home_rec           4
+op_away_rec        3
+off                7
+def                7
+op_off             1
+op_def             5
+hop                5
+aop                1
+hdp                7
+adp                7
+div            False
+result          True
+Name: 214, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             JAX
+away             WAS
+rec                2
+op_rec             4
+home_rec           3
+op_away_rec        5
+off                3
+def                2
+op_off             3
+op_def             5
+hop                1
+aop                2
+hdp                2
+adp                4
+div            False
+result         False
+Name: 218, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              LA
+away             PHI
+rec                8
+op_rec             5
+home_rec           7
+op_away_rec        5
+off                8
+def                5
+op_off             6
+op_def             5
+hop                8
+aop                4
+hdp                5
+adp                3
+div            False
+result         False
+Name: 222, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CAR
+away              NO
+rec                4
+op_rec             8
+home_rec           5
+op_away_rec        8
+off                6
+def                5
+op_off             7
+op_def             4
+hop                4
+aop                7
+hdp                5
+adp                4
+div             True
+result         False
+Name: 223, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             TEN
+away             WAS
+rec                5
+op_rec             4
+home_rec           6
+op_away_rec        5
+off                4
+def                3
+op_off             3
+op_def             5
+hop                3
+aop                2
+hdp                1
+adp                4
+div            False
+result          True
+Name: 224, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            CLE
+away            CIN
+rec               4
+op_rec            3
+home_rec          5
+op_away_rec       3
+off               6
+def               7
+op_off            3
+op_def            8
+hop               4
+aop               4
+hdp               5
+adp               8
+div            True
+result         True
+Name: 226, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ARI
+away              LA
+rec                1
+op_rec             8
+home_rec           1
+op_away_rec        7
+off                1
+def                5
+op_off             8
+op_def             5
+hop                1
+aop                8
+hdp                7
+adp                5
+div             True
+result         False
+Name: 235, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            OAK
+away            DEN
+rec               1
+op_rec            3
+home_rec          3
+op_away_rec       4
+off               5
+def               6
+op_off            5
+op_def            5
+hop               2
+aop               3
+hdp               8
+adp               3
+div            True
+result         True
+Name: 239, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            BUF
+away            MIA
+rec               3
+op_rec            4
+home_rec          4
+op_away_rec       2
+off               3
+def               1
+op_off            3
+op_def            7
+hop               2
+aop               3
+hdp               4
+adp               7
+div            True
+result         True
+Name: 240, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            HOU
+away            JAX
+rec               7
+op_rec            2
+home_rec          6
+op_away_rec       3
+off               6
+def               4
+op_off            3
+op_def            2
+hop               5
+aop               1
+hdp               2
+adp               2
+div            True
+result         True
+Name: 245, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            BAL
+away            CLE
+rec               6
+op_rec            4
+home_rec          6
+op_away_rec       3
+off               6
+def               1
+op_off            6
+op_def            7
+hop               4
+aop               4
+hdp               1
+adp               5
+div            True
+result         True
+Name: 251, dtype: object -> 
+-- Prediction --: True
+
+Random Forest Classifications:
+
+-- Row: -- 
+home             PHI
+away             ATL
+rec                5
+op_rec             4
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             7
+op_def             7
+hop                4
+aop                5
+hdp                3
+adp                7
+div            False
+result          True
+Name: 0, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BAL
+away             BUF
+rec                6
+op_rec             3
+home_rec           6
+op_away_rec        3
+off                6
+def                1
+op_off             3
+op_def             1
+hop                4
+aop                2
+hdp                1
+adp                4
+div            False
+result          True
+Name: 1, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             LAC
+away              KC
+rec                8
+op_rec             8
+home_rec           5
+op_away_rec        6
+off                6
+def                3
+op_off             8
+op_def             8
+hop                5
+aop                8
+hdp                3
+adp                7
+div             True
+result         False
+Name: 9, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             GB
+away            CHI
+rec               3
+op_rec            8
+home_rec          5
+op_away_rec       6
+off               6
+def               5
+op_off            5
+op_def            1
+hop               4
+aop               5
+hdp               6
+adp               1
+div            True
+result         True
+Name: 13, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             OAK
+away              LA
+rec                1
+op_rec             8
+home_rec           3
+op_away_rec        7
+off                5
+def                6
+op_off             8
+op_def             5
+hop                2
+aop                8
+hdp                8
+adp                5
+div            False
+result         False
+Name: 15, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             WAS
+away             IND
+rec                4
+op_rec             6
+home_rec           3
+op_away_rec        5
+off                3
+def                5
+op_off             7
+op_def             4
+hop                2
+aop                5
+hdp                4
+adp                3
+div            False
+result         False
+Name: 18, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              LA
+away             LAC
+rec                8
+op_rec             8
+home_rec           7
+op_away_rec        8
+off                8
+def                5
+op_off             6
+op_def             3
+hop                8
+aop                5
+hdp                5
+adp                3
+div            False
+result          True
+Name: 43, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              TB
+away             PIT
+rec                2
+op_rec             5
+home_rec           4
+op_away_rec        5
+off                8
+def                7
+op_off             8
+op_def             3
+hop                5
+aop                5
+hdp                8
+adp                4
+div            False
+result         False
+Name: 47, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             OAK
+away             CLE
+rec                1
+op_rec             4
+home_rec           3
+op_away_rec        3
+off                5
+def                6
+op_off             6
+op_def             7
+hop                2
+aop                4
+hdp                8
+adp                5
+div            False
+result          True
+Name: 58, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              NE
+away             IND
+rec                7
+op_rec             6
+home_rec           8
+op_away_rec        5
+off                7
+def                5
+op_off             7
+op_def             4
+hop                5
+aop                5
+hdp                2
+adp                3
+div            False
+result          True
+Name: 63, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             BUF
+away             TEN
+rec                3
+op_rec             5
+home_rec           4
+op_away_rec        4
+off                3
+def                1
+op_off             4
+op_def             3
+hop                2
+aop                3
+hdp                4
+adp                1
+div            False
+result          True
+Name: 64, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NYJ
+away             DEN
+rec                1
+op_rec             3
+home_rec           2
+op_away_rec        4
+off                3
+def                6
+op_off             5
+op_def             5
+hop                3
+aop                3
+hdp                7
+adp                3
+div            False
+result          True
+Name: 66, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              KC
+away             JAX
+rec                8
+op_rec             2
+home_rec           7
+op_away_rec        3
+off                8
+def                8
+op_off             3
+op_def             2
+hop                8
+aop                1
+hdp                7
+adp                2
+div            False
+result          True
+Name: 67, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            DET
+away             GB
+rec               3
+op_rec            3
+home_rec          3
+op_away_rec       2
+off               4
+def               3
+op_off            6
+op_def            5
+hop               3
+aop               4
+hdp               4
+adp               6
+div            True
+result         True
+Name: 68, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             OAK
+away             SEA
+rec                1
+op_rec             6
+home_rec           3
+op_away_rec        5
+off                5
+def                6
+op_off             5
+op_def             4
+hop                2
+aop                5
+hdp                8
+adp                3
+div            False
+result         False
+Name: 81, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NYJ
+away             IND
+rec                1
+op_rec             6
+home_rec           2
+op_away_rec        5
+off                3
+def                6
+op_off             7
+op_def             4
+hop                3
+aop                5
+hdp                7
+adp                3
+div            False
+result          True
+Name: 82, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             LAC
+away             TEN
+rec                8
+op_rec             5
+home_rec           5
+op_away_rec        4
+off                6
+def                3
+op_off             4
+op_def             3
+hop                5
+aop                3
+hdp                3
+adp                1
+div            False
+result          True
+Name: 94, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             MIA
+away             DET
+rec                4
+op_rec             3
+home_rec           6
+op_away_rec        4
+off                3
+def                7
+op_off             4
+op_def             3
+hop                3
+aop                3
+hdp                7
+adp                4
+div            False
+result         False
+Name: 101, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             KC
+away            DEN
+rec               8
+op_rec            3
+home_rec          7
+op_away_rec       4
+off               8
+def               8
+op_off            5
+op_def            5
+hop               8
+aop               3
+hdp               7
+adp               3
+div            True
+result         True
+Name: 109, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             CIN
+away              TB
+rec                3
+op_rec             2
+home_rec           4
+op_away_rec        2
+off                3
+def                8
+op_off             8
+op_def             7
+hop                4
+aop                5
+hdp                8
+adp                8
+div            False
+result          True
+Name: 113, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             OAK
+away             IND
+rec                1
+op_rec             6
+home_rec           3
+op_away_rec        5
+off                5
+def                6
+op_off             7
+op_def             4
+hop                2
+aop                5
+hdp                8
+adp                3
+div            False
+result         False
+Name: 116, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            ARI
+away             SF
+rec               1
+op_rec            1
+home_rec          1
+op_away_rec       1
+off               1
+def               5
+op_off            6
+op_def            4
+hop               1
+aop               3
+hdp               7
+adp               7
+div            True
+result         True
+Name: 117, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              LA
+away              GB
+rec                8
+op_rec             3
+home_rec           7
+op_away_rec        2
+off                8
+def                5
+op_off             6
+op_def             5
+hop                8
+aop                4
+hdp                5
+adp                6
+div            False
+result          True
+Name: 118, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              SF
+away             OAK
+rec                1
+op_rec             1
+home_rec           4
+op_away_rec        2
+off                6
+def                4
+op_off             5
+op_def             6
+hop                3
+aop                2
+hdp                7
+adp                8
+div            False
+result          True
+Name: 121, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            MIA
+away            NYJ
+rec               4
+op_rec            1
+home_rec          6
+op_away_rec       3
+off               3
+def               7
+op_off            3
+op_def            6
+hop               3
+aop               3
+hdp               7
+adp               7
+div            True
+result         True
+Name: 125, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             SEA
+away             LAC
+rec                6
+op_rec             8
+home_rec           6
+op_away_rec        8
+off                5
+def                4
+op_off             6
+op_def             3
+hop                5
+aop                5
+hdp                3
+adp                3
+div            False
+result         False
+Name: 130, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             PIT
+away             CAR
+rec                5
+op_rec             4
+home_rec           5
+op_away_rec        3
+off                8
+def                3
+op_off             6
+op_def             5
+hop                5
+aop                4
+hdp                4
+adp                5
+div            False
+result          True
+Name: 134, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             OAK
+away             LAC
+rec                1
+op_rec             8
+home_rec           3
+op_away_rec        8
+off                5
+def                6
+op_off             6
+op_def             3
+hop                2
+aop                5
+hdp                8
+adp                3
+div             True
+result         False
+Name: 143, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             LA
+away            SEA
+rec               8
+op_rec            6
+home_rec          7
+op_away_rec       5
+off               8
+def               5
+op_off            5
+op_def            4
+hop               8
+aop               5
+hdp               5
+adp               3
+div            True
+result         True
+Name: 144, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              SF
+away             NYG
+rec                1
+op_rec             2
+home_rec           4
+op_away_rec        4
+off                6
+def                4
+op_off             5
+op_def             6
+hop                3
+aop                4
+hdp                7
+adp                6
+div            False
+result         False
+Name: 147, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYG
+away              TB
+rec                2
+op_rec             2
+home_rec           2
+op_away_rec        2
+off                5
+def                6
+op_off             8
+op_def             7
+hop                4
+aop                5
+hdp                6
+adp                8
+div            False
+result          True
+Name: 151, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             JAX
+away             PIT
+rec                2
+op_rec             5
+home_rec           3
+op_away_rec        5
+off                3
+def                2
+op_off             8
+op_def             3
+hop                1
+aop                5
+hdp                2
+adp                4
+div            False
+result         False
+Name: 152, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NO
+away            ATL
+rec               8
+op_rec            4
+home_rec          6
+op_away_rec       4
+off               7
+def               4
+op_off            7
+op_def            7
+hop               7
+aop               5
+hdp               4
+adp               7
+div            True
+result         True
+Name: 163, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             CAR
+away             SEA
+rec                4
+op_rec             6
+home_rec           5
+op_away_rec        5
+off                6
+def                5
+op_off             5
+op_def             4
+hop                4
+aop                5
+hdp                5
+adp                3
+div            False
+result         False
+Name: 168, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            PHI
+away            NYG
+rec               5
+op_rec            2
+home_rec          5
+op_away_rec       4
+off               6
+def               5
+op_off            5
+op_def            6
+hop               4
+aop               4
+hdp               3
+adp               6
+div            True
+result         True
+Name: 170, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            MIA
+away            BUF
+rec               4
+op_rec            3
+home_rec          6
+op_away_rec       3
+off               3
+def               7
+op_off            3
+op_def            1
+hop               3
+aop               2
+hdp               7
+adp               4
+div            True
+result         True
+Name: 180, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              GB
+away             ARI
+rec                3
+op_rec             1
+home_rec           5
+op_away_rec        3
+off                6
+def                5
+op_off             1
+op_def             5
+hop                4
+aop                1
+hdp                6
+adp                7
+div            False
+result         False
+Name: 185, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            TEN
+away            JAX
+rec               5
+op_rec            2
+home_rec          6
+op_away_rec       3
+off               4
+def               3
+op_off            3
+op_def            2
+hop               3
+aop               1
+hdp               1
+adp               2
+div            True
+result         True
+Name: 192, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             LAC
+away             CIN
+rec                8
+op_rec             3
+home_rec           5
+op_away_rec        3
+off                6
+def                3
+op_off             3
+op_def             8
+hop                5
+aop                4
+hdp                3
+adp                8
+div            False
+result          True
+Name: 202, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CIN
+away             OAK
+rec                3
+op_rec             1
+home_rec           4
+op_away_rec        2
+off                3
+def                8
+op_off             5
+op_def             6
+hop                4
+aop                2
+hdp                8
+adp                8
+div            False
+result          True
+Name: 215, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             MIN
+away             MIA
+rec                5
+op_rec             4
+home_rec           5
+op_away_rec        2
+off                5
+def                2
+op_off             3
+op_def             7
+hop                4
+aop                3
+hdp                3
+adp                7
+div            False
+result          True
+Name: 217, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NE
+away            BUF
+rec               7
+op_rec            3
+home_rec          8
+op_away_rec       3
+off               7
+def               5
+op_off            3
+op_def            1
+hop               5
+aop               2
+hdp               2
+adp               4
+div            True
+result         True
+Name: 229, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYJ
+away              GB
+rec                1
+op_rec             3
+home_rec           2
+op_away_rec        2
+off                3
+def                6
+op_off             6
+op_def             5
+hop                3
+aop                4
+hdp                7
+adp                6
+div            False
+result         False
+Name: 230, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             CAR
+away             ATL
+rec                4
+op_rec             4
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             7
+op_def             7
+hop                4
+aop                5
+hdp                5
+adp                7
+div             True
+result         False
+Name: 232, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             IND
+away             NYG
+rec                6
+op_rec             2
+home_rec           6
+op_away_rec        4
+off                7
+def                4
+op_off             5
+op_def             6
+hop                5
+aop                4
+hdp                3
+adp                6
+div            False
+result          True
+Name: 233, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             MIA
+away             JAX
+rec                4
+op_rec             2
+home_rec           6
+op_away_rec        3
+off                3
+def                7
+op_off             3
+op_def             2
+hop                3
+aop                1
+hdp                7
+adp                2
+div            False
+result         False
+Name: 234, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              TB
+away             ATL
+rec                2
+op_rec             4
+home_rec           4
+op_away_rec        4
+off                8
+def                7
+op_off             7
+op_def             7
+hop                5
+aop                5
+hdp                8
+adp                7
+div             True
+result         False
+Name: 241, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NE
+away            NYJ
+rec               7
+op_rec            1
+home_rec          8
+op_away_rec       3
+off               7
+def               5
+op_off            3
+op_def            6
+hop               5
+aop               3
+hdp               2
+adp               7
+div            True
+result         True
+Name: 244, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             KC
+away            OAK
+rec               8
+op_rec            1
+home_rec          7
+op_away_rec       2
+off               8
+def               8
+op_off            5
+op_def            6
+hop               8
+aop               2
+hdp               7
+adp               8
+div            True
+result         True
+Name: 249, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             LA
+away             SF
+rec               8
+op_rec            1
+home_rec          7
+op_away_rec       1
+off               8
+def               5
+op_off            6
+op_def            4
+hop               8
+aop               3
+hdp               5
+adp               7
+div            True
+result         True
+Name: 252, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            PIT
+away            CIN
+rec               5
+op_rec            3
+home_rec          5
+op_away_rec       3
+off               8
+def               3
+op_off            3
+op_def            8
+hop               5
+aop               4
+hdp               4
+adp               8
+div            True
+result         True
+Name: 253, dtype: object -> 
+-- Prediction --: False
+
+Random Forest Classifications:
+
+-- Row: -- 
+home              NE
+away             HOU
+rec                7
+op_rec             7
+home_rec           8
+op_away_rec        6
+off                7
+def                5
+op_off             6
+op_def             4
+hop                5
+aop                5
+hdp                2
+adp                2
+div            False
+result          True
+Name: 4, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             MIA
+away             TEN
+rec                4
+op_rec             5
+home_rec           6
+op_away_rec        4
+off                3
+def                7
+op_off             4
+op_def             3
+hop                3
+aop                3
+hdp                7
+adp                1
+div            False
+result          True
+Name: 6, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             IND
+away             CIN
+rec                6
+op_rec             3
+home_rec           6
+op_away_rec        3
+off                7
+def                4
+op_off             3
+op_def             8
+hop                5
+aop                4
+hdp                3
+adp                8
+div            False
+result         False
+Name: 7, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            CIN
+away            BAL
+rec               3
+op_rec            6
+home_rec          4
+op_away_rec       5
+off               3
+def               8
+op_off            6
+op_def            1
+hop               4
+aop               4
+hdp               8
+adp               1
+div            True
+result         True
+Name: 16, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            TEN
+away            HOU
+rec               5
+op_rec            7
+home_rec          6
+op_away_rec       6
+off               4
+def               3
+op_off            6
+op_def            4
+hop               3
+aop               5
+hdp               1
+adp               2
+div            True
+result         True
+Name: 19, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BUF
+away             LAC
+rec                3
+op_rec             8
+home_rec           4
+op_away_rec        8
+off                3
+def                1
+op_off             6
+op_def             3
+hop                2
+aop                5
+hdp                4
+adp                3
+div            False
+result         False
+Name: 23, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             GB
+away            MIN
+rec               3
+op_rec            5
+home_rec          5
+op_away_rec       4
+off               6
+def               5
+op_off            5
+op_def            2
+hop               4
+aop               4
+hdp               6
+adp               3
+div            True
+result         True
+Name: 24, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              NO
+away             CLE
+rec                8
+op_rec             4
+home_rec           6
+op_away_rec        3
+off                7
+def                4
+op_off             6
+op_def             7
+hop                7
+aop                4
+hdp                4
+adp                5
+div            False
+result          True
+Name: 25, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            DEN
+away            OAK
+rec               3
+op_rec            1
+home_rec          3
+op_away_rec       2
+off               5
+def               5
+op_off            5
+op_def            6
+hop               3
+aop               2
+hdp               3
+adp               8
+div            True
+result         True
+Name: 29, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             PHI
+away             IND
+rec                5
+op_rec             6
+home_rec           5
+op_away_rec        5
+off                6
+def                5
+op_off             7
+op_def             4
+hop                4
+aop                5
+hdp                3
+adp                3
+div            False
+result          True
+Name: 35, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             MIA
+away             OAK
+rec                4
+op_rec             1
+home_rec           6
+op_away_rec        2
+off                3
+def                7
+op_off             5
+op_def             6
+hop                3
+aop                2
+hdp                7
+adp                8
+div            False
+result          True
+Name: 37, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BAL
+away             DEN
+rec                6
+op_rec             3
+home_rec           6
+op_away_rec        4
+off                6
+def                1
+op_off             5
+op_def             5
+hop                4
+aop                3
+hdp                1
+adp                3
+div            False
+result          True
+Name: 38, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             JAX
+away             NYJ
+rec                2
+op_rec             1
+home_rec           3
+op_away_rec        3
+off                3
+def                2
+op_off             3
+op_def             6
+hop                1
+aop                3
+hdp                2
+adp                7
+div            False
+result          True
+Name: 49, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NE
+away            MIA
+rec               7
+op_rec            4
+home_rec          8
+op_away_rec       2
+off               7
+def               5
+op_off            3
+op_def            7
+hop               5
+aop               3
+hdp               2
+adp               7
+div            True
+result         True
+Name: 50, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             TEN
+away             PHI
+rec                5
+op_rec             5
+home_rec           6
+op_away_rec        5
+off                4
+def                3
+op_off             6
+op_def             5
+hop                3
+aop                4
+hdp                1
+adp                3
+div            False
+result          True
+Name: 51, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DEN
+away              KC
+rec                3
+op_rec             8
+home_rec           3
+op_away_rec        6
+off                5
+def                5
+op_off             8
+op_def             8
+hop                3
+aop                8
+hdp                3
+adp                7
+div             True
+result         False
+Name: 62, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            LAC
+away            OAK
+rec               8
+op_rec            1
+home_rec          5
+op_away_rec       2
+off               6
+def               3
+op_off            5
+op_def            6
+hop               5
+aop               2
+hdp               3
+adp               8
+div            True
+result         True
+Name: 72, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             HOU
+away             DAL
+rec                7
+op_rec             6
+home_rec           6
+op_away_rec        4
+off                6
+def                4
+op_off             5
+op_def             3
+hop                5
+aop                3
+hdp                2
+adp                2
+div            False
+result          True
+Name: 76, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              NO
+away             WAS
+rec                8
+op_rec             4
+home_rec           6
+op_away_rec        5
+off                7
+def                4
+op_off             3
+op_def             5
+hop                7
+aop                2
+hdp                4
+adp                4
+div            False
+result          True
+Name: 77, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYG
+away             PHI
+rec                2
+op_rec             5
+home_rec           2
+op_away_rec        5
+off                5
+def                6
+op_off             6
+op_def             5
+hop                4
+aop                4
+hdp                6
+adp                3
+div             True
+result         False
+Name: 78, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            ATL
+away             TB
+rec               4
+op_rec            2
+home_rec          4
+op_away_rec       2
+off               7
+def               7
+op_off            8
+op_def            7
+hop               5
+aop               5
+hdp               7
+adp               8
+div            True
+result         True
+Name: 79, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             MIN
+away             ARI
+rec                5
+op_rec             1
+home_rec           5
+op_away_rec        3
+off                5
+def                2
+op_off             1
+op_def             5
+hop                4
+aop                1
+hdp                3
+adp                7
+div            False
+result          True
+Name: 83, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CIN
+away             PIT
+rec                3
+op_rec             5
+home_rec           4
+op_away_rec        5
+off                3
+def                8
+op_off             8
+op_def             3
+hop                4
+aop                5
+hdp                8
+adp                4
+div             True
+result         False
+Name: 84, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             MIA
+away             CHI
+rec                4
+op_rec             8
+home_rec           6
+op_away_rec        6
+off                3
+def                7
+op_off             5
+op_def             1
+hop                3
+aop                5
+hdp                7
+adp                1
+div            False
+result          True
+Name: 87, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CHI
+away              NE
+rec                8
+op_rec             7
+home_rec           7
+op_away_rec        4
+off                5
+def                1
+op_off             7
+op_def             5
+hop                5
+aop                5
+hdp                1
+adp                2
+div            False
+result         False
+Name: 98, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BAL
+away             PIT
+rec                6
+op_rec             5
+home_rec           6
+op_away_rec        5
+off                6
+def                1
+op_off             8
+op_def             3
+hop                4
+aop                5
+hdp                1
+adp                4
+div             True
+result         False
+Name: 126, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              KC
+away             ARI
+rec                8
+op_rec             1
+home_rec           7
+op_away_rec        3
+off                8
+def                8
+op_off             1
+op_def             5
+hop                8
+aop                1
+hdp                7
+adp                7
+div            False
+result          True
+Name: 138, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              TB
+away             WAS
+rec                2
+op_rec             4
+home_rec           4
+op_away_rec        5
+off                8
+def                7
+op_off             3
+op_def             5
+hop                5
+aop                2
+hdp                8
+adp                4
+div            False
+result         False
+Name: 140, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             WAS
+away             HOU
+rec                4
+op_rec             7
+home_rec           3
+op_away_rec        6
+off                3
+def                5
+op_off             6
+op_def             4
+hop                2
+aop                5
+hdp                4
+adp                2
+div            False
+result         False
+Name: 153, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            IND
+away            TEN
+rec               6
+op_rec            5
+home_rec          6
+op_away_rec       4
+off               7
+def               4
+op_off            4
+op_def            3
+hop               5
+aop               3
+hdp               3
+adp               1
+div            True
+result         True
+Name: 154, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             LAC
+away             ARI
+rec                8
+op_rec             1
+home_rec           5
+op_away_rec        3
+off                6
+def                3
+op_off             1
+op_def             5
+hop                5
+aop                1
+hdp                3
+adp                7
+div            False
+result          True
+Name: 171, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            HOU
+away            TEN
+rec               7
+op_rec            5
+home_rec          6
+op_away_rec       4
+off               6
+def               4
+op_off            4
+op_def            3
+hop               5
+aop               3
+hdp               2
+adp               1
+div            True
+result         True
+Name: 175, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DAL
+away              NO
+rec                6
+op_rec             8
+home_rec           7
+op_away_rec        8
+off                5
+def                3
+op_off             7
+op_def             4
+hop                3
+aop                7
+hdp                2
+adp                4
+div            False
+result          True
+Name: 176, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            JAX
+away            IND
+rec               2
+op_rec            6
+home_rec          3
+op_away_rec       5
+off               3
+def               2
+op_off            7
+op_def            4
+hop               1
+aop               5
+hdp               2
+adp               3
+div            True
+result         True
+Name: 181, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             HOU
+away             CLE
+rec                7
+op_rec             4
+home_rec           6
+op_away_rec        3
+off                6
+def                4
+op_off             6
+op_def             7
+hop                5
+aop                4
+hdp                2
+adp                5
+div            False
+result          True
+Name: 182, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DET
+away              LA
+rec                3
+op_rec             8
+home_rec           3
+op_away_rec        7
+off                4
+def                3
+op_off             8
+op_def             5
+hop                3
+aop                8
+hdp                4
+adp                5
+div            False
+result         False
+Name: 184, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              NE
+away             MIN
+rec                7
+op_rec             5
+home_rec           8
+op_away_rec        4
+off                7
+def                5
+op_off             5
+op_def             2
+hop                5
+aop                4
+hdp                2
+adp                3
+div            False
+result          True
+Name: 189, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             PIT
+away             LAC
+rec                5
+op_rec             8
+home_rec           5
+op_away_rec        8
+off                8
+def                3
+op_off             6
+op_def             3
+hop                5
+aop                5
+hdp                4
+adp                3
+div            False
+result         False
+Name: 190, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              TB
+away              NO
+rec                2
+op_rec             8
+home_rec           4
+op_away_rec        8
+off                8
+def                7
+op_off             7
+op_def             4
+hop                5
+aop                7
+hdp                8
+adp                4
+div             True
+result         False
+Name: 195, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             HOU
+away             IND
+rec                7
+op_rec             6
+home_rec           6
+op_away_rec        5
+off                6
+def                4
+op_off             7
+op_def             4
+hop                5
+aop                5
+hdp                2
+adp                3
+div             True
+result         False
+Name: 198, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              GB
+away             ATL
+rec                3
+op_rec             4
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             7
+op_def             7
+hop                4
+aop                5
+hdp                6
+adp                7
+div            False
+result          True
+Name: 199, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CHI
+away              LA
+rec                8
+op_rec             8
+home_rec           7
+op_away_rec        7
+off                5
+def                1
+op_off             8
+op_def             5
+hop                5
+aop                8
+hdp                1
+adp                5
+div            False
+result          True
+Name: 206, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            CHI
+away             GB
+rec               8
+op_rec            3
+home_rec          7
+op_away_rec       2
+off               5
+def               1
+op_off            6
+op_def            5
+hop               5
+aop               4
+hdp               1
+adp               6
+div            True
+result         True
+Name: 211, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             IND
+away             DAL
+rec                6
+op_rec             6
+home_rec           6
+op_away_rec        4
+off                7
+def                4
+op_off             5
+op_def             3
+hop                5
+aop                3
+hdp                3
+adp                2
+div            False
+result          True
+Name: 219, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             LAC
+away             BAL
+rec                8
+op_rec             6
+home_rec           5
+op_away_rec        5
+off                6
+def                3
+op_off             6
+op_def             1
+hop                5
+aop                4
+hdp                3
+adp                1
+div            False
+result         False
+Name: 225, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DAL
+away              TB
+rec                6
+op_rec             2
+home_rec           7
+op_away_rec        2
+off                5
+def                3
+op_off             8
+op_def             7
+hop                3
+aop                5
+hdp                2
+adp                8
+div            False
+result          True
+Name: 227, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DET
+away             MIN
+rec                3
+op_rec             5
+home_rec           3
+op_away_rec        4
+off                4
+def                3
+op_off             5
+op_def             2
+hop                3
+aop                4
+hdp                4
+adp                3
+div             True
+result         False
+Name: 228, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             PHI
+away             HOU
+rec                5
+op_rec             7
+home_rec           5
+op_away_rec        6
+off                6
+def                5
+op_off             6
+op_def             4
+hop                4
+aop                5
+hdp                3
+adp                2
+div            False
+result          True
+Name: 231, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              NO
+away             CAR
+rec                8
+op_rec             4
+home_rec           6
+op_away_rec        3
+off                7
+def                4
+op_off             6
+op_def             5
+hop                7
+aop                4
+hdp                4
+adp                5
+div             True
+result         False
+Name: 243, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             WAS
+away             PHI
+rec                4
+op_rec             5
+home_rec           3
+op_away_rec        5
+off                3
+def                5
+op_off             6
+op_def             5
+hop                2
+aop                4
+hdp                4
+adp                3
+div             True
+result         False
+Name: 247, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            SEA
+away            ARI
+rec               6
+op_rec            1
+home_rec          6
+op_away_rec       3
+off               5
+def               4
+op_off            1
+op_def            5
+hop               5
+aop               1
+hdp               3
+adp               7
+div            True
+result         True
+Name: 254, dtype: object -> 
+-- Prediction --: True
+
+Random Forest Classifications:
+
+-- Row: -- 
+home             ARI
+away             WAS
+rec                1
+op_rec             4
+home_rec           1
+op_away_rec        5
+off                1
+def                5
+op_off             3
+op_def             5
+hop                1
+aop                2
+hdp                7
+adp                4
+div            False
+result         False
+Name: 12, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DET
+away             NYJ
+rec                3
+op_rec             1
+home_rec           3
+op_away_rec        3
+off                4
+def                3
+op_off             3
+op_def             6
+hop                3
+aop                3
+hdp                4
+adp                7
+div            False
+result         False
+Name: 14, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              SF
+away             DET
+rec                1
+op_rec             3
+home_rec           4
+op_away_rec        4
+off                6
+def                4
+op_off             4
+op_def             3
+hop                3
+aop                3
+hdp                7
+adp                4
+div            False
+result          True
+Name: 26, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            DAL
+away            NYG
+rec               6
+op_rec            2
+home_rec          7
+op_away_rec       4
+off               5
+def               3
+op_off            5
+op_def            6
+hop               3
+aop               4
+hdp               2
+adp               6
+div            True
+result         True
+Name: 30, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             JAX
+away             TEN
+rec                2
+op_rec             5
+home_rec           3
+op_away_rec        4
+off                3
+def                2
+op_off             4
+op_def             3
+hop                1
+aop                3
+hdp                2
+adp                1
+div             True
+result         False
+Name: 41, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             SEA
+away             DAL
+rec                6
+op_rec             6
+home_rec           6
+op_away_rec        4
+off                5
+def                4
+op_off             5
+op_def             3
+hop                5
+aop                3
+hdp                3
+adp                2
+div            False
+result          True
+Name: 44, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ARI
+away             CHI
+rec                1
+op_rec             8
+home_rec           1
+op_away_rec        6
+off                1
+def                5
+op_off             5
+op_def             1
+hop                1
+aop                5
+hdp                7
+adp                1
+div            False
+result         False
+Name: 45, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DAL
+away             DET
+rec                6
+op_rec             3
+home_rec           7
+op_away_rec        4
+off                5
+def                3
+op_off             4
+op_def             3
+hop                3
+aop                3
+hdp                2
+adp                4
+div            False
+result          True
+Name: 54, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CHI
+away              TB
+rec                8
+op_rec             2
+home_rec           7
+op_away_rec        2
+off                5
+def                1
+op_off             8
+op_def             7
+hop                5
+aop                5
+hdp                1
+adp                8
+div            False
+result          True
+Name: 55, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             PIT
+away             BAL
+rec                5
+op_rec             6
+home_rec           5
+op_away_rec        5
+off                8
+def                3
+op_off             6
+op_def             1
+hop                5
+aop                4
+hdp                4
+adp                1
+div             True
+result         False
+Name: 61, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            CLE
+away            BAL
+rec               4
+op_rec            6
+home_rec          5
+op_away_rec       5
+off               6
+def               7
+op_off            6
+op_def            1
+hop               4
+aop               4
+hdp               5
+adp               1
+div            True
+result         True
+Name: 69, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             PHI
+away             MIN
+rec                5
+op_rec             5
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             5
+op_def             2
+hop                4
+aop                4
+hdp                3
+adp                3
+div            False
+result         False
+Name: 74, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ARI
+away             DEN
+rec                1
+op_rec             3
+home_rec           1
+op_away_rec        4
+off                1
+def                5
+op_off             5
+op_def             5
+hop                1
+aop                3
+hdp                7
+adp                3
+div            False
+result         False
+Name: 93, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             JAX
+away             HOU
+rec                2
+op_rec             7
+home_rec           3
+op_away_rec        6
+off                3
+def                2
+op_off             6
+op_def             4
+hop                1
+aop                5
+hdp                2
+adp                2
+div             True
+result         False
+Name: 95, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             PHI
+away             CAR
+rec                5
+op_rec             4
+home_rec           5
+op_away_rec        3
+off                6
+def                5
+op_off             6
+op_def             5
+hop                4
+aop                4
+hdp                3
+adp                5
+div            False
+result         False
+Name: 96, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              TB
+away             CLE
+rec                2
+op_rec             4
+home_rec           4
+op_away_rec        3
+off                8
+def                7
+op_off             6
+op_def             7
+hop                5
+aop                4
+hdp                8
+adp                5
+div            False
+result          True
+Name: 100, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              SF
+away              LA
+rec                1
+op_rec             8
+home_rec           4
+op_away_rec        7
+off                6
+def                4
+op_off             8
+op_def             5
+hop                3
+aop                8
+hdp                7
+adp                5
+div             True
+result         False
+Name: 104, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ATL
+away             NYG
+rec                4
+op_rec             2
+home_rec           4
+op_away_rec        4
+off                7
+def                7
+op_off             5
+op_def             6
+hop                5
+aop                4
+hdp                7
+adp                6
+div            False
+result          True
+Name: 106, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             HOU
+away             MIA
+rec                7
+op_rec             4
+home_rec           6
+op_away_rec        2
+off                6
+def                4
+op_off             3
+op_def             7
+hop                5
+aop                3
+hdp                2
+adp                7
+div            False
+result          True
+Name: 107, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            PIT
+away            CLE
+rec               5
+op_rec            4
+home_rec          5
+op_away_rec       3
+off               8
+def               3
+op_off            6
+op_def            7
+hop               5
+aop               4
+hdp               4
+adp               5
+div            True
+result         True
+Name: 110, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DET
+away             SEA
+rec                3
+op_rec             6
+home_rec           3
+op_away_rec        5
+off                4
+def                3
+op_off             5
+op_def             4
+hop                3
+aop                5
+hdp                4
+adp                3
+div            False
+result         False
+Name: 112, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             MIN
+away              NO
+rec                5
+op_rec             8
+home_rec           5
+op_away_rec        8
+off                5
+def                2
+op_off             7
+op_def             4
+hop                4
+aop                7
+hdp                3
+adp                4
+div            False
+result         False
+Name: 119, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BUF
+away             CHI
+rec                3
+op_rec             8
+home_rec           4
+op_away_rec        6
+off                3
+def                1
+op_off             5
+op_def             1
+hop                2
+aop                5
+hdp                4
+adp                1
+div            False
+result         False
+Name: 122, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            CAR
+away             TB
+rec               4
+op_rec            2
+home_rec          5
+op_away_rec       2
+off               6
+def               5
+op_off            8
+op_def            7
+hop               4
+aop               5
+hdp               5
+adp               8
+div            True
+result         True
+Name: 123, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CLE
+away              KC
+rec                4
+op_rec             8
+home_rec           5
+op_away_rec        6
+off                6
+def                7
+op_off             8
+op_def             8
+hop                4
+aop                8
+hdp                5
+adp                7
+div            False
+result         False
+Name: 124, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            MIN
+away            DET
+rec               5
+op_rec            3
+home_rec          5
+op_away_rec       4
+off               5
+def               2
+op_off            4
+op_def            3
+hop               4
+aop               3
+hdp               3
+adp               4
+div            True
+result         True
+Name: 127, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DEN
+away             HOU
+rec                3
+op_rec             7
+home_rec           3
+op_away_rec        6
+off                5
+def                5
+op_off             6
+op_def             4
+hop                3
+aop                5
+hdp                3
+adp                2
+div            False
+result         False
+Name: 129, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              NE
+away              GB
+rec                7
+op_rec             3
+home_rec           8
+op_away_rec        2
+off                7
+def                5
+op_off             6
+op_def             5
+hop                5
+aop                4
+hdp                2
+adp                6
+div            False
+result          True
+Name: 132, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CIN
+away              NO
+rec                3
+op_rec             8
+home_rec           4
+op_away_rec        8
+off                3
+def                8
+op_off             7
+op_def             4
+hop                4
+aop                7
+hdp                8
+adp                4
+div            False
+result         False
+Name: 135, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            CHI
+away            DET
+rec               8
+op_rec            3
+home_rec          7
+op_away_rec       4
+off               5
+def               1
+op_off            4
+op_def            3
+hop               5
+aop               3
+hdp               1
+adp               4
+div            True
+result         True
+Name: 137, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            CHI
+away            MIN
+rec               8
+op_rec            5
+home_rec          7
+op_away_rec       4
+off               5
+def               1
+op_off            5
+op_def            2
+hop               5
+aop               4
+hdp               1
+adp               3
+div            True
+result         True
+Name: 159, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            DAL
+away            WAS
+rec               6
+op_rec            4
+home_rec          7
+op_away_rec       5
+off               5
+def               3
+op_off            3
+op_def            5
+hop               3
+aop               2
+hdp               2
+adp               4
+div            True
+result         True
+Name: 162, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             BUF
+away             JAX
+rec                3
+op_rec             2
+home_rec           4
+op_away_rec        3
+off                3
+def                1
+op_off             3
+op_def             2
+hop                2
+aop                1
+hdp                4
+adp                2
+div            False
+result          True
+Name: 166, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYJ
+away              NE
+rec                1
+op_rec             7
+home_rec           2
+op_away_rec        4
+off                3
+def                6
+op_off             7
+op_def             5
+hop                3
+aop                5
+hdp                7
+adp                2
+div             True
+result         False
+Name: 169, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ATL
+away             BAL
+rec                4
+op_rec             6
+home_rec           4
+op_away_rec        5
+off                7
+def                7
+op_off             6
+op_def             1
+hop                5
+aop                4
+hdp                7
+adp                1
+div            False
+result         False
+Name: 177, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NYG
+away             CHI
+rec                2
+op_rec             8
+home_rec           2
+op_away_rec        6
+off                5
+def                6
+op_off             5
+op_def             1
+hop                4
+aop                5
+hdp                6
+adp                1
+div            False
+result          True
+Name: 179, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             TEN
+away             NYJ
+rec                5
+op_rec             1
+home_rec           6
+op_away_rec        3
+off                4
+def                3
+op_off             3
+op_def             6
+hop                3
+aop                3
+hdp                1
+adp                7
+div            False
+result          True
+Name: 187, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            SEA
+away             SF
+rec               6
+op_rec            1
+home_rec          6
+op_away_rec       1
+off               5
+def               4
+op_off            6
+op_def            4
+hop               5
+aop               3
+hdp               3
+adp               7
+div            True
+result         True
+Name: 188, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            MIA
+away             NE
+rec               4
+op_rec            7
+home_rec          6
+op_away_rec       4
+off               3
+def               7
+op_off            7
+op_def            5
+hop               3
+aop               5
+hdp               7
+adp               2
+div            True
+result         True
+Name: 196, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              KC
+away             BAL
+rec                8
+op_rec             6
+home_rec           7
+op_away_rec        5
+off                8
+def                8
+op_off             6
+op_def             1
+hop                8
+aop                4
+hdp                7
+adp                1
+div            False
+result          True
+Name: 197, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CLE
+away             CAR
+rec                4
+op_rec             4
+home_rec           5
+op_away_rec        3
+off                6
+def                7
+op_off             6
+op_def             5
+hop                4
+aop                4
+hdp                5
+adp                5
+div            False
+result          True
+Name: 200, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ARI
+away             DET
+rec                1
+op_rec             3
+home_rec           1
+op_away_rec        4
+off                1
+def                5
+op_off             4
+op_def             3
+hop                1
+aop                3
+hdp                7
+adp                4
+div            False
+result         False
+Name: 203, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            DAL
+away            PHI
+rec               6
+op_rec            5
+home_rec          7
+op_away_rec       5
+off               5
+def               3
+op_off            6
+op_def            5
+hop               3
+aop               4
+hdp               2
+adp               3
+div            True
+result         True
+Name: 205, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              KC
+away             LAC
+rec                8
+op_rec             8
+home_rec           7
+op_away_rec        8
+off                8
+def                8
+op_off             6
+op_def             3
+hop                8
+aop                5
+hdp                7
+adp                3
+div             True
+result         False
+Name: 208, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYJ
+away             HOU
+rec                1
+op_rec             7
+home_rec           2
+op_away_rec        6
+off                3
+def                6
+op_off             6
+op_def             4
+hop                3
+aop                5
+hdp                7
+adp                2
+div            False
+result         False
+Name: 209, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DEN
+away             CLE
+rec                3
+op_rec             4
+home_rec           3
+op_away_rec        3
+off                5
+def                5
+op_off             6
+op_def             7
+hop                3
+aop                4
+hdp                3
+adp                5
+div            False
+result         False
+Name: 210, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             PIT
+away              NE
+rec                5
+op_rec             7
+home_rec           5
+op_away_rec        4
+off                8
+def                3
+op_off             7
+op_def             5
+hop                5
+aop                5
+hdp                4
+adp                2
+div            False
+result          True
+Name: 221, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             SEA
+away              KC
+rec                6
+op_rec             8
+home_rec           6
+op_away_rec        6
+off                5
+def                4
+op_off             8
+op_def             8
+hop                5
+aop                8
+hdp                3
+adp                7
+div            False
+result          True
+Name: 238, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              GB
+away             DET
+rec                3
+op_rec             3
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             4
+op_def             3
+hop                4
+aop                3
+hdp                6
+adp                4
+div             True
+result         False
+Name: 246, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DEN
+away             LAC
+rec                3
+op_rec             8
+home_rec           3
+op_away_rec        8
+off                5
+def                5
+op_off             6
+op_def             3
+hop                3
+aop                5
+hdp                3
+adp                3
+div             True
+result         False
+Name: 248, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             TEN
+away             IND
+rec                5
+op_rec             6
+home_rec           6
+op_away_rec        5
+off                4
+def                3
+op_off             7
+op_def             4
+hop                3
+aop                5
+hdp                1
+adp                3
+div             True
+result         False
+Name: 255, dtype: object -> 
+-- Prediction --: True
+
+Random Forest Classifications:
+
+-- Row: -- 
+home             NYG
+away             JAX
+rec                2
+op_rec             2
+home_rec           2
+op_away_rec        3
+off                5
+def                6
+op_off             3
+op_def             2
+hop                4
+aop                1
+hdp                6
+adp                2
+div            False
+result         False
+Name: 2, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DEN
+away             SEA
+rec                3
+op_rec             6
+home_rec           3
+op_away_rec        5
+off                5
+def                5
+op_off             5
+op_def             4
+hop                3
+aop                5
+hdp                3
+adp                3
+div            False
+result          True
+Name: 10, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             CAR
+away             DAL
+rec                4
+op_rec             6
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             5
+op_def             3
+hop                4
+aop                3
+hdp                5
+adp                2
+div            False
+result          True
+Name: 11, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home            ATL
+away            CAR
+rec               4
+op_rec            4
+home_rec          4
+op_away_rec       3
+off               7
+def               7
+op_off            6
+op_def            5
+hop               5
+aop               4
+hdp               7
+adp               5
+div            True
+result         True
+Name: 17, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              TB
+away             PHI
+rec                2
+op_rec             5
+home_rec           4
+op_away_rec        5
+off                8
+def                7
+op_off             6
+op_def             5
+hop                5
+aop                4
+hdp                8
+adp                3
+div            False
+result          True
+Name: 20, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             PIT
+away              KC
+rec                5
+op_rec             8
+home_rec           5
+op_away_rec        6
+off                8
+def                3
+op_off             8
+op_def             8
+hop                5
+aop                8
+hdp                4
+adp                7
+div            False
+result         False
+Name: 21, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             JAX
+away              NE
+rec                2
+op_rec             7
+home_rec           3
+op_away_rec        4
+off                3
+def                2
+op_off             7
+op_def             5
+hop                1
+aop                5
+hdp                2
+adp                2
+div            False
+result          True
+Name: 28, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             ATL
+away              NO
+rec                4
+op_rec             8
+home_rec           4
+op_away_rec        8
+off                7
+def                7
+op_off             7
+op_def             4
+hop                5
+aop                7
+hdp                7
+adp                4
+div             True
+result         False
+Name: 33, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             WAS
+away              GB
+rec                4
+op_rec             3
+home_rec           3
+op_away_rec        2
+off                3
+def                5
+op_off             6
+op_def             5
+hop                2
+aop                4
+hdp                4
+adp                6
+div            False
+result          True
+Name: 34, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             HOU
+away             NYG
+rec                7
+op_rec             2
+home_rec           6
+op_away_rec        4
+off                6
+def                4
+op_off             5
+op_def             6
+hop                5
+aop                4
+hdp                2
+adp                6
+div            False
+result         False
+Name: 40, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DET
+away              NE
+rec                3
+op_rec             7
+home_rec           3
+op_away_rec        4
+off                4
+def                3
+op_off             7
+op_def             5
+hop                3
+aop                5
+hdp                4
+adp                2
+div            False
+result          True
+Name: 46, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              LA
+away             MIN
+rec                8
+op_rec             5
+home_rec           7
+op_away_rec        4
+off                8
+def                5
+op_off             5
+op_def             2
+hop                8
+aop                4
+hdp                5
+adp                3
+div            False
+result          True
+Name: 48, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              GB
+away             BUF
+rec                3
+op_rec             3
+home_rec           5
+op_away_rec        3
+off                6
+def                5
+op_off             3
+op_def             1
+hop                4
+aop                2
+hdp                6
+adp                4
+div            False
+result          True
+Name: 53, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYG
+away              NO
+rec                2
+op_rec             8
+home_rec           2
+op_away_rec        8
+off                5
+def                6
+op_off             7
+op_def             4
+hop                4
+aop                7
+hdp                6
+adp                4
+div            False
+result         False
+Name: 59, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CAR
+away             NYG
+rec                4
+op_rec             2
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             5
+op_def             6
+hop                4
+aop                4
+hdp                5
+adp                6
+div            False
+result          True
+Name: 70, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             WAS
+away             CAR
+rec                4
+op_rec             4
+home_rec           3
+op_away_rec        3
+off                3
+def                5
+op_off             6
+op_def             5
+hop                2
+aop                4
+hdp                4
+adp                5
+div            False
+result          True
+Name: 80, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             DEN
+away              LA
+rec                3
+op_rec             8
+home_rec           3
+op_away_rec        7
+off                5
+def                5
+op_off             8
+op_def             5
+hop                3
+aop                8
+hdp                3
+adp                5
+div            False
+result         False
+Name: 88, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             TEN
+away             BAL
+rec                5
+op_rec             6
+home_rec           6
+op_away_rec        5
+off                4
+def                3
+op_off             6
+op_def             1
+hop                3
+aop                4
+hdp                1
+adp                1
+div            False
+result         False
+Name: 89, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              GB
+away              SF
+rec                3
+op_rec             1
+home_rec           5
+op_away_rec        1
+off                6
+def                5
+op_off             6
+op_def             4
+hop                4
+aop                3
+hdp                6
+adp                7
+div            False
+result          True
+Name: 92, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             IND
+away             BUF
+rec                6
+op_rec             3
+home_rec           6
+op_away_rec        3
+off                7
+def                4
+op_off             3
+op_def             1
+hop                5
+aop                2
+hdp                3
+adp                4
+div            False
+result          True
+Name: 99, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              KC
+away             CIN
+rec                8
+op_rec             3
+home_rec           7
+op_away_rec        3
+off                8
+def                8
+op_off             3
+op_def             8
+hop                8
+aop                4
+hdp                7
+adp                8
+div            False
+result          True
+Name: 105, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             JAX
+away             PHI
+rec                2
+op_rec             5
+home_rec           3
+op_away_rec        5
+off                3
+def                2
+op_off             6
+op_def             5
+hop                1
+aop                4
+hdp                2
+adp                3
+div            False
+result         False
+Name: 108, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NYG
+away             WAS
+rec                2
+op_rec             4
+home_rec           2
+op_away_rec        5
+off                5
+def                6
+op_off             3
+op_def             5
+hop                4
+aop                2
+hdp                6
+adp                4
+div             True
+result         False
+Name: 111, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             CHI
+away             NYJ
+rec                8
+op_rec             1
+home_rec           7
+op_away_rec        3
+off                5
+def                1
+op_off             3
+op_def             6
+hop                5
+aop                3
+hdp                1
+adp                7
+div            False
+result          True
+Name: 114, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             WAS
+away             ATL
+rec                4
+op_rec             4
+home_rec           3
+op_away_rec        4
+off                3
+def                5
+op_off             7
+op_def             7
+hop                2
+aop                5
+hdp                4
+adp                7
+div            False
+result         False
+Name: 128, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             DAL
+away             TEN
+rec                6
+op_rec             5
+home_rec           7
+op_away_rec        4
+off                5
+def                3
+op_off             4
+op_def             3
+hop                3
+aop                3
+hdp                2
+adp                1
+div            False
+result         False
+Name: 133, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             TEN
+away              NE
+rec                5
+op_rec             7
+home_rec           6
+op_away_rec        4
+off                4
+def                3
+op_off             7
+op_def             5
+hop                3
+aop                5
+hdp                1
+adp                2
+div            False
+result          True
+Name: 139, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             NYJ
+away             BUF
+rec                1
+op_rec             3
+home_rec           2
+op_away_rec        3
+off                3
+def                6
+op_off             3
+op_def             1
+hop                3
+aop                2
+hdp                7
+adp                4
+div             True
+result         False
+Name: 141, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            IND
+away            JAX
+rec               6
+op_rec            2
+home_rec          6
+op_away_rec       3
+off               7
+def               4
+op_off            3
+op_def            2
+hop               5
+aop               1
+hdp               3
+adp               2
+div            True
+result         True
+Name: 142, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              GB
+away             MIA
+rec                3
+op_rec             4
+home_rec           5
+op_away_rec        2
+off                6
+def                5
+op_off             3
+op_def             7
+hop                4
+aop                3
+hdp                6
+adp                7
+div            False
+result          True
+Name: 145, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             PHI
+away             DAL
+rec                5
+op_rec             6
+home_rec           5
+op_away_rec        4
+off                6
+def                5
+op_off             5
+op_def             3
+hop                4
+aop                3
+hdp                3
+adp                2
+div             True
+result         False
+Name: 146, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             SEA
+away              GB
+rec                6
+op_rec             3
+home_rec           6
+op_away_rec        2
+off                5
+def                4
+op_off             6
+op_def             5
+hop                5
+aop                4
+hdp                3
+adp                6
+div            False
+result          True
+Name: 148, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            BAL
+away            CIN
+rec               6
+op_rec            3
+home_rec          6
+op_away_rec       3
+off               6
+def               1
+op_off            3
+op_def            8
+hop               4
+aop               4
+hdp               1
+adp               8
+div            True
+result         True
+Name: 149, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ATL
+away             DAL
+rec                4
+op_rec             6
+home_rec           4
+op_away_rec        4
+off                7
+def                7
+op_off             5
+op_def             3
+hop                5
+aop                3
+hdp                7
+adp                2
+div            False
+result         False
+Name: 150, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             ARI
+away             OAK
+rec                1
+op_rec             1
+home_rec           1
+op_away_rec        2
+off                1
+def                5
+op_off             5
+op_def             6
+hop                1
+aop                2
+hdp                7
+adp                8
+div            False
+result         False
+Name: 157, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              NO
+away             PHI
+rec                8
+op_rec             5
+home_rec           6
+op_away_rec        5
+off                7
+def                4
+op_off             6
+op_def             5
+hop                7
+aop                4
+hdp                4
+adp                3
+div            False
+result          True
+Name: 158, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             DET
+away             CHI
+rec                3
+op_rec             8
+home_rec           3
+op_away_rec        6
+off                4
+def                3
+op_off             5
+op_def             1
+hop                3
+aop                5
+hdp                4
+adp                1
+div             True
+result         False
+Name: 161, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             CIN
+away             CLE
+rec                3
+op_rec             4
+home_rec           4
+op_away_rec        3
+off                3
+def                8
+op_off             6
+op_def             7
+hop                4
+aop                4
+hdp                8
+adp                5
+div             True
+result         False
+Name: 164, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             DEN
+away             PIT
+rec                3
+op_rec             5
+home_rec           3
+op_away_rec        5
+off                5
+def                5
+op_off             8
+op_def             3
+hop                3
+aop                5
+hdp                3
+adp                4
+div            False
+result          True
+Name: 173, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            MIN
+away             GB
+rec               5
+op_rec            3
+home_rec          5
+op_away_rec       2
+off               5
+def               2
+op_off            6
+op_def            5
+hop               4
+aop               4
+hdp               3
+adp               6
+div            True
+result         True
+Name: 174, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home            PHI
+away            WAS
+rec               5
+op_rec            4
+home_rec          5
+op_away_rec       5
+off               6
+def               5
+op_off            3
+op_def            5
+hop               4
+aop               2
+hdp               3
+adp               4
+div            True
+result         True
+Name: 191, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             BUF
+away             NYJ
+rec                3
+op_rec             1
+home_rec           4
+op_away_rec        3
+off                3
+def                1
+op_off             3
+op_def             6
+hop                2
+aop                3
+hdp                4
+adp                7
+div             True
+result         False
+Name: 193, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             WAS
+away             NYG
+rec                4
+op_rec             2
+home_rec           3
+op_away_rec        4
+off                3
+def                5
+op_off             5
+op_def             6
+hop                2
+aop                4
+hdp                4
+adp                6
+div             True
+result         False
+Name: 194, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              SF
+away             DEN
+rec                1
+op_rec             3
+home_rec           4
+op_away_rec        4
+off                6
+def                4
+op_off             5
+op_def             5
+hop                3
+aop                3
+hdp                7
+adp                3
+div            False
+result          True
+Name: 201, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             OAK
+away             PIT
+rec                1
+op_rec             5
+home_rec           3
+op_away_rec        5
+off                5
+def                6
+op_off             8
+op_def             3
+hop                2
+aop                5
+hdp                8
+adp                4
+div            False
+result          True
+Name: 204, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYG
+away             TEN
+rec                2
+op_rec             5
+home_rec           2
+op_away_rec        4
+off                5
+def                6
+op_off             4
+op_def             3
+hop                4
+aop                3
+hdp                6
+adp                1
+div            False
+result         False
+Name: 216, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             SF
+away            SEA
+rec               1
+op_rec            6
+home_rec          4
+op_away_rec       5
+off               6
+def               4
+op_off            5
+op_def            4
+hop               3
+aop               5
+hdp               7
+adp               3
+div            True
+result         True
+Name: 220, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home              SF
+away             CHI
+rec                1
+op_rec             8
+home_rec           4
+op_away_rec        6
+off                6
+def                4
+op_off             5
+op_def             1
+hop                3
+aop                5
+hdp                7
+adp                1
+div            False
+result         False
+Name: 236, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home              NO
+away             PIT
+rec                8
+op_rec             5
+home_rec           6
+op_away_rec        5
+off                7
+def                4
+op_off             8
+op_def             3
+hop                7
+aop                5
+hdp                4
+adp                4
+div            False
+result          True
+Name: 237, dtype: object -> 
+-- Prediction --: True
+
+-- Row: -- 
+home             NYG
+away             DAL
+rec                2
+op_rec             6
+home_rec           2
+op_away_rec        4
+off                5
+def                6
+op_off             5
+op_def             3
+hop                4
+aop                3
+hdp                6
+adp                2
+div             True
+result         False
+Name: 242, dtype: object -> 
+-- Prediction --: False
+
+-- Row: -- 
+home             MIN
+away             CHI
+rec                5
+op_rec             8
+home_rec           5
+op_away_rec        6
+off                5
+def                2
+op_off             5
+op_def             1
+hop                4
+aop                5
+hdp                3
+adp                1
+div             True
+result         False
+Name: 250, dtype: object -> 
+-- Prediction --: True
+

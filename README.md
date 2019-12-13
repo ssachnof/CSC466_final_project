@@ -9,9 +9,8 @@ legacy_data, games_data, roster_data, and play_by_play_data.
  A): predict who wins game given 1st half of data
  B): predict who wins game given whole game's data
 
- Ryan question: Deciding between:
- A) Who will win a game based on last 10 games
- B) Predict record of a team after midway point of season
+Ryan question: Deciding between:
+ Classifier to predict who will win playoff games based on how well teams did in the season
  
 Grayson Question:
  Clustering based on the play-style of teams (Offense focused, balanced, etc..)
