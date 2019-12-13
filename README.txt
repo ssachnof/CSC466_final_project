@@ -2,6 +2,7 @@ please compile with python3.6 or higher
 Samuel Sachnoff(ssachnof@calpoly.edu)
 The data cleaning folder contains the scripts we used in order to clean the Carnegie play by play dataset we used. Additionally,
 all of the datafiles that we used in our models are in the data folder. All of our model generation is in the models folder.
+Please feel free to use any of the datasets that we have created in the data folder.
 
 Questions:
 Given a team’s first half offensive stats, can we predict who wins the game?
