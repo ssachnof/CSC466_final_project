@@ -11,14 +11,22 @@ In order to run either of the above 2 questions, please run predictor_win_game.p
 for either of the random forest or decision tree classifiers that we created. Additionally, this file takes a couple of different
 command line arguments.
 
-python3.6 predictor_win_game.py <filepath> <method> <hyperparameter_value> <selected columns>
-filepath: string representing the path to the input datafile(must either be all_games.csv or all_games_half1.csv)
-method: -rf for random forest or -dt for decision tree
-hyperparameter value:
-    if using random forest classifier:
-        integer representing the number of trees to create in the ensemble classifier
-    if using decision tree:
-        float represent the information gain threshold
-selected columns:
-    a list of space delmited string representing the columns to use while building the model(ie. a b c d where a,b,c,d are different
-    columns)
+if you would like to run the cross validation for a given model:
+    python3.6 predictor_win_game.py <filepath> <method> <hyperparameter_value> <selected columns>
+    filepath: string representing the path to the input datafile(must either be all_games.csv or all_games_half1.csv)
+    method: -rf for random forest or -dt for decision tree
+    hyperparameter value:
+        if using random forest classifier:
+            integer representing the number of trees to create in the ensemble classifier
+        if using decision tree:
+            float represent the information gain threshold
+    selected columns:
+        a list of space delmited string representing the columns to use while building the model(ie. a b c d where a,b,c,d are different
+        columns)
+if you would like to run the model selection for either random forest or decision tree(I strongly suggest that you don't due to
+the significant runtime)
+    python3.6 predictor_win_game.py <filepath> <method> <max_cols>
+    filepath- path to data file
+    method: -rf or -dt for random forest or decision tree respectively
+    max_cols: integer representing the maximum number of columns to use while performing model selection
+

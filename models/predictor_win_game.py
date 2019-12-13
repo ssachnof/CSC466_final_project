@@ -71,7 +71,7 @@ def driver_random_forest(data, targets, max_cols):
     overall_best_hyperparams = None
     overall_best_cm = None
     max_samples = len(data)
-    for n_cols in range(6, max_cols + 1):
+    for n_cols in range(4, max_cols + 1):
         possible_cols = itertools.combinations(data.columns, n_cols)
         possible_cols = list(possible_cols)
         # l = len(list(possible_cols))
@@ -157,6 +157,13 @@ def main():
     method = sys.argv[2]
     data, targets = get_data(filename)
     selected_cols = sys.argv[4:]
+    if '-model_selection' in sys.argv:
+        max_cols = int(sys.argv[2])
+        method = sys.argv[3]
+        if method == '-rf':
+            driver_random_forest(data, targets, max_cols)
+        else:
+            driver_decision_tree(data, targets, max_cols)
     for i in range(len(selected_cols)):
         selected_cols[i] = selected_cols[i].strip()
     if method == '-rf':
