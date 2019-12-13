@@ -1,0 +1,55 @@
+n_cols =  1
+overall_cm: 
+[[1794  804]
+ [ 851 1967]]
+overall:  {'f1': 0.6843410261300782, 'acc': 0.694423929098966, 'prec': 0.6782608695652174} ['num_rushing_attempts'] 0.7
+n_cols =  2
+overall_cm: 
+[[1687  911]
+ [ 564 2254]]
+overall:  {'f1': 0.695813569808208, 'acc': 0.7276587887740029, 'prec': 0.7494446912483341} ['qbr', 'num_rushing_attempts'] 0.9
+n_cols =  3
+overall_cm: 
+[[1696  902]
+ [ 557 2261]]
+overall:  {'f1': 0.6992372706658421, 'acc': 0.7306129985228951, 'prec': 0.7527740790057701} ['time_of_possession', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  4
+overall_cm: 
+[[1700  898]
+ [ 551 2267]]
+overall:  {'f1': 0.701175500103114, 'acc': 0.7324593796159528, 'prec': 0.7552199022656597} ['time_of_possession', 'completion_ratio', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  5
+overall_cm: 
+[[1698  900]
+ [ 548 2270]]
+overall:  {'f1': 0.7010734929810074, 'acc': 0.7326440177252584, 'prec': 0.7560106856634016} ['net_rush_yds', 'time_of_possession', 'completion_ratio', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  6
+overall_cm: 
+[[1698  900]
+ [ 548 2270]]
+overall:  {'f1': 0.7010734929810074, 'acc': 0.7326440177252584, 'prec': 0.7560106856634016} ['net_rush_yds', 'time_of_possession', 'completion_ratio', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  7
+overall_cm: 
+[[1703  895]
+ [ 552 2266]]
+overall:  {'f1': 0.7018339171646404, 'acc': 0.7328286558345642, 'prec': 0.7552106430155211} ['net_pass_yds', 'net_rush_yds', 'time_of_possession', 'net_pen_yds', 'completion_ratio', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  8
+overall_cm: 
+[[1706  892]
+ [ 547 2271]]
+overall:  {'f1': 0.7033601319315607, 'acc': 0.7343057607090103, 'prec': 0.7572126054150022} ['net_pass_yds', 'net_rush_yds', 'time_of_possession', 'num_passing_attempts', 'completion_ratio', 'ypg', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  9
+overall_cm: 
+[[1706  892]
+ [ 547 2271]]
+overall:  {'f1': 0.7033601319315607, 'acc': 0.7343057607090103, 'prec': 0.7572126054150022} ['net_pass_yds', 'net_rush_yds', 'time_of_possession', 'num_passing_attempts', 'completion_ratio', 'ypg', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  10
+overall_cm: 
+[[1706  892]
+ [ 547 2271]]
+overall:  {'f1': 0.7033601319315607, 'acc': 0.7343057607090103, 'prec': 0.7572126054150022} ['net_pass_yds', 'net_rush_yds', 'time_of_possession', 'num_passing_attempts', 'completion_ratio', 'ypg', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  11
+overall_cm: 
+[[1706  892]
+ [ 547 2271]]
+overall:  {'f1': 0.7033601319315607, 'acc': 0.7343057607090103, 'prec': 0.7572126054150022} ['net_pass_yds', 'net_rush_yds', 'time_of_possession', 'num_passing_attempts', 'completion_ratio', 'ypg', 'qbr', 'num_rushing_attempts'] 0.9

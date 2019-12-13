@@ -70,7 +70,7 @@ def driver_random_forest(data, targets, max_cols):
     overall_best_hyperparams = None
     overall_best_cm = None
     max_samples = len(data)
-    for n_cols in range(7, max_cols + 1):
+    for n_cols in range(6, max_cols + 1):
         possible_cols = itertools.combinations(data.columns, n_cols)
         possible_cols = list(possible_cols)
         # l = len(list(possible_cols))
@@ -95,6 +95,7 @@ def driver_random_forest(data, targets, max_cols):
                     recall = num_tp / (num_tp + num_fn)
                     f_measure = 2 * ((prec * recall) / (prec + recall))
                     metrics = {'f1': f_measure, 'acc' : acc, 'prec':prec}
+
                     if overall_best_model is None:
                         overall_best_metrics = metrics
                         overall_best_model = model
@@ -111,7 +112,7 @@ def driver_random_forest(data, targets, max_cols):
         print(overall_best_cm)
         print('overall: ', overall_best_metrics, overall_best_cols, overall_best_hyperparams)
 def get_data():
-    data = pd.read_csv('../data/all_games.csv')
+    data = pd.read_csv('../data/all_games_half1.csv')
     data = data.drop(columns=[data.columns[0], 'game_id', 'team', 'fumble', 'interception'])
     data['is_winner'] = data['is_winner'].replace([False, True], [0, 1])#vectorize the is_winner category
     targets = data['is_winner']
@@ -123,7 +124,7 @@ def get_data():
 def main():
     data, targets = get_data()
     driver_decision_tree(data, targets, 11)
-    # driver_random_forest(data, targets, 11)
+    #driver_random_forest(data, targets, 6)
 
 if __name__ == "__main__":
     main()

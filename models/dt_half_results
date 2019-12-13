@@ -1,0 +1,30 @@
+n_cols =  1
+overall_cm: 
+[[1637  961]
+ [1021 1797]]
+overall:  {'f1': 0.6229071537290717, 'acc': 0.6340472673559823, 'prec': 0.6158765989465764} ['ypg'] 0.9
+n_cols =  2
+overall_cm: 
+[[1637  961]
+ [1021 1797]]
+overall:  {'f1': 0.6229071537290717, 'acc': 0.6340472673559823, 'prec': 0.6158765989465764} ['ypg'] 0.9
+n_cols =  3
+overall_cm: 
+[[1600  998]
+ [ 914 1904]]
+overall:  {'f1': 0.6259780907668232, 'acc': 0.6469719350073855, 'prec': 0.6364359586316627} ['ypg', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  4
+overall_cm: 
+[[1600  998]
+ [ 914 1904]]
+overall:  {'f1': 0.6259780907668232, 'acc': 0.6469719350073855, 'prec': 0.6364359586316627} ['ypg', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  5
+overall_cm: 
+[[1634  964]
+ [ 924 1894]]
+overall:  {'f1': 0.6338246702870441, 'acc': 0.6514032496307238, 'prec': 0.6387802971071149} ['turnovers', 'completions', 'completion_ratio', 'qbr', 'num_rushing_attempts'] 0.9
+n_cols =  6
+overall_cm: 
+[[1640  958]
+ [ 925 1893]]
+overall:  {'f1': 0.6352895603331397, 'acc': 0.6523264401772526, 'prec': 0.6393762183235867} ['net_pass_yds', 'net_rush_yds', 'turnovers', 'completions', 'qbr', 'num_rushing_attempts'] 0.9
