@@ -81,33 +81,31 @@ def driver_random_forest(data, targets, max_cols):
             k += 1
             selected_cols = list(selected_cols)
             for n_trees in range(100, 300, 100):#cut threshold off at 50% entropy
-                # print(n_trees)
-                for n_features in range(3, 5):
-                    # print(n_features)
-                    #threshold = t
-                    model = RandomForestClassifier(criterion='entropy', n_estimators=n_trees, bootstrap=True)
-                    y_pred = cross_val_predict(model, data[selected_cols], targets, cv=10)
-                    conf_mat = confusion_matrix(targets, y_pred)
-                    num_tp, num_tn, num_fp, num_fn = tp(conf_mat), tn(conf_mat), fp(conf_mat), fn(conf_mat)
-                    #                 score = cross_validate(model, data[selected_cols], targets, scoring = ['accuracy', 'f1'], cv=10)
+                # print(n_features)
+                #threshold = t
+                model = RandomForestClassifier(criterion='entropy', n_estimators=n_trees, bootstrap=True)
+                y_pred = cross_val_predict(model, data[selected_cols], targets, cv=10)
+                conf_mat = confusion_matrix(targets, y_pred)
+                num_tp, num_tn, num_fp, num_fn = tp(conf_mat), tn(conf_mat), fp(conf_mat), fn(conf_mat)
+                #                 score = cross_validate(model, data[selected_cols], targets, scoring = ['accuracy', 'f1'], cv=10)
 
-                    acc = (num_tp + num_tn) / (num_tp + num_fn + num_tn + num_fp)
-                    prec = num_tp / (num_tp + num_fp)
-                    recall = num_tp / (num_tp + num_fn)
-                    f_measure = 2 * ((prec * recall) / (prec + recall))
-                    metrics = {'f1': f_measure, 'acc' : acc, 'prec':prec}
+                acc = (num_tp + num_tn) / (num_tp + num_fn + num_tn + num_fp)
+                prec = num_tp / (num_tp + num_fp)
+                recall = num_tp / (num_tp + num_fn)
+                f_measure = 2 * ((prec * recall) / (prec + recall))
+                metrics = {'f1': f_measure, 'acc' : acc, 'prec':prec}
 
-                    if overall_best_model is None:
-                        overall_best_metrics = metrics
-                        overall_best_model = model
-                        overall_best_hyperparams = [n_trees, n_features]
-                        overall_best_cm = conf_mat
-                    elif metrics['acc'] > overall_best_metrics['acc']:
-                        overall_best_cols = selected_cols
-                        overall_best_metrics = metrics
-                        overall_best_model = model
-                        overall_best_hyperparams = [n_trees, n_features]
-                        overall_best_cm = conf_mat
+                if overall_best_model is None:
+                    overall_best_metrics = metrics
+                    overall_best_model = model
+                    overall_best_hyperparams = [n_trees]
+                    overall_best_cm = conf_mat
+                elif metrics['acc'] > overall_best_metrics['acc']:
+                    overall_best_cols = selected_cols
+                    overall_best_metrics = metrics
+                    overall_best_model = model
+                    overall_best_hyperparams = [n_trees]
+                    overall_best_cm = conf_mat
         print("n_cols = ", n_cols)
         print('overall_cm: ')
         print(overall_best_cm)
