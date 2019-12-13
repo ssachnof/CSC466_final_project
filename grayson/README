@@ -1,0 +1,11 @@
+#CSC466 final project
+#Samuel Erling Sachnoff (ssachnof@calpoly.edu)
+#Ryan Holt (ryholt@calpoly.edu)
+#Conor Whatley (cwhatley@calpoly.edu)
+#Grayson Clendenon (gclenden@calpoly.edu)
+
+style_clustering.py:
+	usage: python3 style_clustering.py out_file k
+
+	Reads the "data/team_stats_2018.csv" file. Uses K-Means to cluster the teams by their offensive, defensive, and special teams performances. Cluster, plot, and report results/analysis.
+	
