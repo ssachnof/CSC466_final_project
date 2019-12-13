@@ -1,4 +1,8 @@
-CSC466 final project
+#CSC466 final project
+#Samuel Erling Sachnoff (ssachnof@calpoly.edu)
+#Ryan Holt (ryholt@calpoly.edu)
+#Conor Whatley (cwhatley@calpoly.edu)
+#Grayson Clendenon (gclenden@calpoly.edu)
 
 In order to obtain the necessary data files, please clone the following repo from CMU statistical researchers: https://github.com/ryurko/nflscrapR-data. Then, move the following folders into the CSC466_final_project repo:
 
