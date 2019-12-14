@@ -1,0 +1,16 @@
+Ryan Holt (ryholt)
+
+Classifier for predicting who won a game given two teams season stats
+
+python3 parser.py [year] [num_ranks]
+
+ - This file parses NFL data into two files:
+ rank_data_20**.csv -> aggregated stats data for each team that season
+ season_data_20**.csv -> game data with stats for both teams along with who won
+
+python3 validation.py [path] [num_folds]
+
+ - This file runs C45 and RF classifiers on the season_data datasets
+ - Validates the classification by running the test data and creating a confusion matrix
+
+ Accuracy varies between 55-70%

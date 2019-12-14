@@ -14,11 +14,11 @@ Question 1 & 2 - Sam question: I have not decided which approach I am planning o
  B): predict who wins game given whole game's data
 
 Question 3 - Ryan question: Deciding between:
- A) Who will win a game based on last 10 games
- B) Predict record of a team after midway point of season
+ Classifier to predict who will win playoff games based on how well teams did in the season
  
 Question 4 - Grayson Question:
- Clustering based on the play-style of teams (Offense focused, balanced, etc..)
+ Can we use K-Means clustering based on a team’s offensive, defensive, and special teams performance for a season to determine the relationship between these components and rankings? 
+  -> Can we predict what play styles are most effective from this relationship?
  
 Question 5 - Conor question:
  Classifier to predict what position a player plays based on their stats
