@@ -46,8 +46,10 @@ style_clustering.py:
         Reads the "data/team_stats_2018.csv" file. Uses K-Means to cluster the teams by their offensive, defensive, and special teams performances. Cluster, plot, and report results/analysis.
 	
 	Raw outputs are in the output folder, inputs are in the data directory.
-Question 5 - Conor question:
+	
+Question 5:
  Classifier to predict what position a player plays based on their stats
-
-Question 3 - Ryan question: Deciding between:
- Classifier to predict who will win playoff games based on how well teams did in the season
+ 
+ To run, make sure both FinalSimilarityGenerator.py, FinalKnn.py, and Career_Stats_Defensive.csv are in the same directory.
+ Run FinalSimilarityGenerator.py first, which will take a while. Then run FinalKnn.py, entering the k value when prompted.
+ Both programs can be run by themselves.
