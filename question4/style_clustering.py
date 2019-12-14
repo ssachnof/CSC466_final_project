@@ -123,11 +123,14 @@ def get_cluster_statistics(df, test, clustering):
     test["rank"] = df["RANK"]
 
     means = test.groupby("cluster").mean()
+    #print(test.groupby("cluster").count()["rank"])
+    means["count"] = test.groupby("cluster").count()["rank"]
     return means
 def print_cluster_statistics(stats_df):
     out_cols = ["rank","OFF_RANK", "DEF_RANK", "ST_RANK"]
     for cluster, row in stats_df.iterrows():
         print("Cluster: {}".format(cluster))
+        print("\tCount: {}".format(row["count"]))
         for col in out_cols:
             print("\tMEAN {}: {}".format(col, row[col]))
 
@@ -141,8 +144,11 @@ def write_cluster_statistics(stats_df, out):
     out_cols = ["rank","OFF_RANK", "DEF_RANK", "ST_RANK"]
     for cluster, row in stats_df.iterrows():
         out.write("\tCluster: {}\n".format(cluster))
+        out.write("\t\tCount: {}\n".format(row["count"]))
         for col in out_cols:
             out.write("\t\tMEAN {}: {}\n".format(col, row[col]))
+
+
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,59 @@
+Clustering Output (K-Means, k = 4):
+	Team: KC	Cluster: 2
+	Team: LAR	Cluster: 2
+	Team: LAC	Cluster: 1
+	Team: NO	Cluster: 2
+	Team: CHI	Cluster: 0
+	Team: BAL	Cluster: 3
+	Team: NE	Cluster: 2
+	Team: IND	Cluster: 2
+	Team: PIT	Cluster: 1
+	Team: MIN	Cluster: 0
+	Team: HOU	Cluster: 3
+	Team: SEA	Cluster: 1
+	Team: DEN	Cluster: 0
+	Team: CAR	Cluster: 1
+	Team: NYG	Cluster: 2
+	Team: PHI	Cluster: 3
+	Team: CLE	Cluster: 0
+	Team: ATL	Cluster: 2
+	Team: GB	Cluster: 1
+	Team: TEN	Cluster: 3
+	Team: DAL	Cluster: 0
+	Team: JAX	Cluster: 3
+	Team: CIN	Cluster: 3
+	Team: TB	Cluster: 1
+	Team: NYJ	Cluster: 3
+	Team: DET	Cluster: 1
+	Team: MIA	Cluster: 3
+	Team: BUF	Cluster: 0
+	Team: WAS	Cluster: 3
+	Team: SF	Cluster: 3
+	Team: OAK	Cluster: 1
+	Team: ARI	Cluster: 3
+
+Cluster Statistics:
+	Cluster: 0
+		Count: 6.0
+		MEAN rank: 13.166666666666666
+		MEAN OFF_RANK: 20.666666666666668
+		MEAN DEF_RANK: 5.5
+		MEAN ST_RANK: 26.833333333333332
+	Cluster: 1
+		Count: 8.0
+		MEAN rank: 17.75
+		MEAN OFF_RANK: 12.0
+		MEAN DEF_RANK: 22.0
+		MEAN ST_RANK: 24.125
+	Cluster: 2
+		Count: 7.0
+		MEAN rank: 7.571428571428571
+		MEAN OFF_RANK: 6.142857142857143
+		MEAN DEF_RANK: 19.285714285714285
+		MEAN ST_RANK: 9.857142857142858
+	Cluster: 3
+		Count: 11.0
+		MEAN rank: 23.09090909090909
+		MEAN OFF_RANK: 24.09090909090909
+		MEAN DEF_RANK: 16.727272727272727
+		MEAN ST_RANK: 9.545454545454545

@@ -9,18 +9,18 @@ In order to obtain the necessary data files, please clone the following repo fro
 legacy_data, games_data, roster_data, and play_by_play_data.
 
 
- Sam question: I have not decided which approach I am planning on using: 
+Question 1 & 2 - Sam question: I have not decided which approach I am planning on using: 
  A): predict who wins game given 1st half of data
  B): predict who wins game given whole game's data
 
- Ryan question: Deciding between:
+Question 3 - Ryan question: Deciding between:
  A) Who will win a game based on last 10 games
  B) Predict record of a team after midway point of season
  
-Grayson Question:
+Question 4 - Grayson Question:
  Clustering based on the play-style of teams (Offense focused, balanced, etc..)
  
-Conor question:
+Question 5 - Conor question:
  Classifier to predict what position a player plays based on their stats
 
 
