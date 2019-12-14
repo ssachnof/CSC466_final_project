@@ -37,6 +37,20 @@ the significant runtime)
     method: -rf or -dt for random forest or decision tree respectively
     max_cols: integer representing the maximum number of columns to use while performing model selection
 
+QUESTION 3:
+
+Inside models/season_data_game_predictor:
+
+python3 parser.py [year] [num_ranks]
+
+ - This file parses NFL data into two files:
+  rank_data_20**.csv -> aggregated stats data for each team that season
+   season_data_20**.csv -> game data with stats for both teams along with who won
+
+python3 validation.py [path] [num_folds]
+
+ - This file runs C45 and RF classifiers on the season_data datasets
+ - Validates the classification by running the test data and creating a confusion matrix
 
 QUESTION 4:
 To run, cd into the question4 subdirectory and execute the following command:
